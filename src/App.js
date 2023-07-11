@@ -68,7 +68,7 @@ const nameButtons = [
       },
       {
         id: 3,
-        name: "Dia de la Bandera 2022",
+        name: "Actividad Bandera 2022",
       },
       {
         id: 4,
@@ -650,8 +650,8 @@ const imageFolders = {
     false,
     /\.(png|jpe?g|svg)$/
   ),
-  "Dia de la Bandera 2022": require.context(
-    "../src/images/cpb-evita/Bandera2022",
+  "Actividad Bandera 2022": require.context(
+    "../src/images/cpb-evita/ActividadBandera",
     false,
     /\.(png|jpe?g|svg)$/
   ),
